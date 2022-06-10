@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://www.peter-jacobsen.de/pdforg/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.peter-jacobsen.de/pdforg/de/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.peter-jacobsen.de/pdforg/en/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.peter-jacobsen.de/pdforg/batch_editor/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.peter-jacobsen.de/pdforg/de/batch_editor/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.peter-jacobsen.de/pdforg/en/batch_editor/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.peter-jacobsen.de/pdforg/browser/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.peter-jacobsen.de/pdforg/de/browser/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.peter-jacobsen.de/pdforg/en/browser/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.peter-jacobsen.de/pdforg/cli/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.peter-jacobsen.de/pdforg/de/cli/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.peter-jacobsen.de/pdforg/en/cli/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.peter-jacobsen.de/pdforg/editor/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.peter-jacobsen.de/pdforg/de/editor/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.peter-jacobsen.de/pdforg/en/editor/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.peter-jacobsen.de/pdforg/quick_editor/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="de" href="https://www.peter-jacobsen.de/pdforg/de/quick_editor/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.peter-jacobsen.de/pdforg/en/quick_editor/"/>
+         
+    </url>
+</urlset>
